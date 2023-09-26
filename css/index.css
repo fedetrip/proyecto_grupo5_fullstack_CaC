@@ -1,0 +1,19 @@
+@import url(../css/misc/variables.css);
+
+@import url(../css/misc/normalize.css);
+
+@import url(../css/misc/helpers.css);
+
+@import url(../css/partials/header.css);
+
+@import url(../css/partials/footer.css);
+
+@import url(../css/partials/card.css);
+
+@import url(../css/components/slider.css);
+
+@import url(../css/pages/home.css);
+
+@import url(../css/pages/shop.css);
+
+@import url(../css/pages/cart.css);
