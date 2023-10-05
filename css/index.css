@@ -1,3 +1,7 @@
+@import url("https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css");
+
+@import url("https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.theme.min.css");
+
 @import url(../css/misc/variables.css);
 
 @import url(../css/misc/normalize.css);
